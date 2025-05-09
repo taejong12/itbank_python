@@ -1,0 +1,5 @@
+print("이름 입력 : ")
+name = input()
+print("나이 입력 : ")
+age = input()
+print(f"{name}님의 나이는 {age}살 입니다.")
